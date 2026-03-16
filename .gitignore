@@ -1,0 +1,10 @@
+# 데이터 파일 (민감 정보 포함)
+data/
+db/
+
+# Python
+__pycache__/
+*.pyc
+
+# Power BI
+*.pbix
